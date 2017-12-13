@@ -1,5 +1,5 @@
 # FID_dhcp_config
-Includes copies of various files from the root directory that allow the DHCP server to work. They are meant to be perserved here as working copies of the actual files of the system, as well as reused if needed.
+Includes copies of various files from the root directory that allow the DHCP server to work. They are meant to be perserved here as working copies of the actual files that reside on the machine.
 
 __The files `dhcpd_dhcp.conf` and `dhcpd_dhcp3.conf` both need to be changed to `dhcpd.conf` in order to work. All file locations are specified on the top line of each file.__
 
